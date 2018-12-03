@@ -1,0 +1,6 @@
+colorama
+signal
+copy
+sys
+time
+select

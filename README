@@ -1,0 +1,40 @@
+Mario Game description
+
+Game runs by executing mario.py
+It consists of 2 levels.
+
+1st level:
+
+Obstacles, enemies, background(stars), clouds are created randomly.
+Enemies are not smart. They run in the till they collide with an obstacle.
+You can collect points represented as 'O'.
+Enemies can be killed bt jumping over them. If they collide with mario side by side, game gets over.
+
+Once you reach the end of the 1st level, you will be asked to continue to the 2nd level where the boss is waiting.
+
+
+2nd level:
+
+Obstacles, enemies, background(stars), clouds are created randomly.
+Enemies are smart. Some will chase you once you cross over them and some will show random motion.
+Points can be collected in this level too.
+Enemy can be killed as before.
+Boss enemy is powerful and so a power-up in form of a gun is provided just before you face the boss.
+Boss health is displayed simultaneously. Mario can kill the boss by hitting him three bullets.
+For extra jump a spring is also there in front of the boss enemy, so that it becomes pretty easy to kill him.
+
+Score is shown simultaneously where coins provide 50 points, killing enemy provides 100 points and killing boss provides 200 points.
+
+Scenes change accordingly.
+
+Different objects have been given different colours.
+
+All features considering OOP, modular code, polymorphism, encapsulation, abstraction, etc. are kept is care.
+
+
+CONTROLS:
+
+a- left
+d- right
+w- jump
+b- fire bullets (after you have the gun) 
